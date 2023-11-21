@@ -23,6 +23,7 @@ function solution2(numbers){
 
   console.log(sum);
 
+  return sum/numbers.length;
 
 
  
