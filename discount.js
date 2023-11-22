@@ -1,3 +1,5 @@
+//옷가게 할인받기
+
 function solution(price){
  const pay = price;
  if(pay < 100000){
@@ -10,5 +12,3 @@ function solution(price){
   return Math.floor(pay-(pay* 0.2));
  }
 }
-
-console.log(solution(580000));
