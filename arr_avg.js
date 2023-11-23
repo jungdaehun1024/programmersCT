@@ -7,7 +7,7 @@ function solution1(numbers){
  return sum/numbers.length;
 }
 
-
+ 
 
 
 //reduce이용 
