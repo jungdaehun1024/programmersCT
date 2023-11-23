@@ -9,7 +9,7 @@ function solution1(angle) {
 console.log(solution1(180));
 
 
-
+ 
 //각도기 ver_2
 const solution2 = angle =>{
   if((angle>0)&&(angle<90)){
